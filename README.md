@@ -9,7 +9,7 @@
 
 ### 📂 Projetos Destacados  
 
-🔹 [Currículo Online](https://giovanep4mg.github.io/Curriculo_online--Curso_HTML_CSS_Carreira_Desenvolvedor/) – Projeto criado para testar minhas habilidades com HTML e CSS.
+🔹 [Currículo Online](https://giovanep4mg.github.io/Curriculo_Online_2025/) – Projeto criado para testar minhas habilidades com HTML e CSS.
 
 🔹 [Jogos de Matemática](https://giovanep4mg.github.io/jogos_de_Matematica_2.0/) – Jogos de matemática, várias operações matemáticas, para testar sua inteligência.
 
