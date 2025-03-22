@@ -13,6 +13,8 @@
 
 🔹 [Jogos de Matemática](https://giovanep4mg.github.io/jogos_de_Matematica_2.0/) – Jogos de matemática, várias operações matemáticas, para testar sua inteligência.
 
+🔹 [Projeto Caixa](https://github.com/giovanep4mg/Projeto_Caixa) – Programa que gera uma planilha excel com colunas pré-definidas e salva, editar a planilha adicionando dados também já pré-definidos para as colunas, faz alguns calculos e salva a planilha em formato excel.
+
 🔹 [Site de Vendas](https://giovanep4mg.github.io/Proway-Computers/produtos) – Projeto criado para simular um site de vendas de produtos eletrônicos.  
 
 🔹 [Jogo do Número Secreto](https://jogo-do-numero-secreto-indol-two.vercel.app/) – Jogo do número secreto, descubra qual é o número.  
